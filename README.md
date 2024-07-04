@@ -6,9 +6,6 @@ Browse All Rooms Page
 
 ![Screenshot 2024-04-29 154814](https://github.com/Preamerboy/Hotel-Corporate-Heaven-client/assets/102614197/9832b5e2-c135-4580-a897-7d8ad523ee41)
 
-Booking Page 
-
-![Screenshot 2024-04-23 113444](https://github.com/Preamerboy/Hotel-Corporate-Heaven-client/assets/102614197/1e205988-9d0c-49b7-81f6-113835ffddbd)
 
 
 Find My Booking Page
